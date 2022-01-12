@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d9ac8dc-ed9c-4f63-801c-40e845634eaf": {
+      "ProjectGuid": "2d9ac8dc-ed9c-4f63-801c-40e845634eaf",
+      "DisplayName": "QuickRPG",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

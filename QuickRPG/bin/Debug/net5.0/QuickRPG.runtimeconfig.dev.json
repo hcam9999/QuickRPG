@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hcam9\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hcam9\\.nuget\\packages"
+    ]
+  }
+}
